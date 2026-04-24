@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MCLibrary/MCLibrary.csproj" />
+  <Project Path="MCLibraryTest/MCLibraryTest.csproj" Id="9d92a9a6-768c-427d-9742-1642763d6d28" />
+  <Project Path="MyCalk/MyCalk.csproj" />
+</Solution>
